@@ -102,7 +102,7 @@ header span {
     }
 
     .search input {
-        padding: 5px 5px;
+        padding: 5px 4px;
         outline: none;
         border-radius: 10px;
         border: #fff;
@@ -113,7 +113,7 @@ header span {
         padding: 10px;
         margin-top: 20px;
         margin-left: 32%;
-        border-radius: 1px;
+        border-radius: 10px;
         border: none;
         cursor: pointer;
         background-color: rgb(88, 88, 207);
